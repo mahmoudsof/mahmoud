@@ -1,3 +1,4 @@
-Author: mahmoudsoftpro@hotmail.com
-This code for Sending to Radme numbers to Google FireBase
-You must Chang to your Google FireBase
+# Students Attendence Applecation 
+# Auther: Mahmoud Abdelatey
+# Github Account:Mahmoudsotpro
+# E-Mail: mahmoudsoftpro@hotmail.com
